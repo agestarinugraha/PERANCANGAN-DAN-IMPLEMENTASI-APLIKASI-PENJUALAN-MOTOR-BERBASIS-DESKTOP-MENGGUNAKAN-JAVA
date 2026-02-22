@@ -38,6 +38,10 @@ menggunakan konsep Object Oriented Programming (OOP).
 4. Klik tombol Hitung
 
 ---
+## 📖 Link E-Book WEBIOT (Published)
+https://ebook.webiot.id/ebooks/perancangan-dan-implementasi-aplikasi-penjualan-motor-berbasis-desktop-menggunakan-java
+
+---
 
 ## 👨‍💻 Dibuat Oleh
 **Agesta Ari Nugraha**
